@@ -1,9 +1,9 @@
 const cacheName = "MPK OSIS-SERASI-1.0";
 const contentToCache = [
-    "Build/itchioRuntime.loader.js",
-    "Build/itchioRuntime.framework.js.unityweb",
-    "Build/itchioRuntime.data.unityweb",
-    "Build/itchioRuntime.wasm.unityweb",
+    "Build/SERASI.loader.js",
+    "Build/SERASI.framework.js.unityweb",
+    "Build/SERASI.data.unityweb",
+    "Build/SERASI.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
